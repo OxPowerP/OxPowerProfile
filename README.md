@@ -1,5 +1,4 @@
 
-# Project Title
 
 🚀 Frontend enthusiast exploring the realms of web design and development. Transforming pixels into delightful user experiences. Check out my repos for HTML/CSS
 
